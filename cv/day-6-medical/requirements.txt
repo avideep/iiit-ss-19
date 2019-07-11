@@ -1,0 +1,6 @@
+# Requirements for this demo.
+
+# Please check path to see if these work.
+conda create -n myenv python=3.7
+conda activate myenv
+pip3 install matplotlib scipy numpy scikit-image tifffile PIL pydicom SimpleITK torch torchvision 
